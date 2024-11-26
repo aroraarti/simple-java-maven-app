@@ -5,6 +5,7 @@
   <artifactId>my-app</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+  <h1> Arti </h1>
   <name>my-apps</name>
   <url>http://maven.apache.org</url>
   <dependencies>
