@@ -28,6 +28,7 @@
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
               <mainClass>com.mycompany.app.App</mainClass>
+              <h1>Arti</h1>
             </manifest>
           </archive>
         </configuration>
